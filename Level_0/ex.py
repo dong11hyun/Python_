@@ -1,5 +1,3 @@
-# print("hello world")
-
 ## input 안 문자열만 삽입 가능
 # name = input('what is your name????')
 
@@ -17,3 +15,5 @@
 ## import를 내가 만든 파일에서 할수있음
 ## ex.) donghyun.py 파일에서 변수가져오기
 ## import donghyun ~~
+
+
